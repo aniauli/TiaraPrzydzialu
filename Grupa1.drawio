@@ -1,33 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T17:18:23.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="t2yXJmEyix-y0VZS5cjp" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T14:48:04.005Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="4fBu83_opetM01praflh" version="13.10.4" type="github">
   <diagram id="5uM9XUodchVWy86l6dnS" name="Page-1">
-    <mxGraphModel dx="2310" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pN9J62DILKApvvg1MB21-1" value="Odnoga 1...&lt;br&gt;(przedstawiciele władz publicznych, wyżsi urzędnicy i kierownicy)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="20" width="320" height="60" as="geometry" />
+          <mxGeometry x="430" y="20" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pN9J62DILKApvvg1MB21-2" value="Pytanie 0:&amp;nbsp;&lt;br&gt;Czy wiążesz swoją karierę zawodową z podejmowaniem ważnych strategicznych decyzji (polityka, zarząd firmy)?&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="110" width="270" height="60" as="geometry" />
+        <mxCell id="pN9J62DILKApvvg1MB21-2" value="Pytanie 0:&amp;nbsp;&lt;br&gt;Czy wiążesz swoją karierę zawodową z podejmowaniem najważniejszych strategicznych decyzji (polityka, zarząd firmy)?&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="110" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pN9J62DILKApvvg1MB21-8" value="" style="endArrow=classic;html=1;exitX=0.531;exitY=1.063;exitDx=0;exitDy=0;rounded=0;exitPerimeter=0;" parent="1" source="pN9J62DILKApvvg1MB21-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="130" as="sourcePoint" />
             <mxPoint x="400" y="160" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="550" y="120" />
+              <mxPoint x="600" y="120" />
               <mxPoint x="400" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pN9J62DILKApvvg1MB21-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="JiiDd-c7EXxBYxir_EYN-1">
+        <mxCell id="pN9J62DILKApvvg1MB21-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.533;exitY=1.023;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="JiiDd-c7EXxBYxir_EYN-1" edge="1" source="pN9J62DILKApvvg1MB21-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="80" as="sourcePoint" />
             <mxPoint x="690" y="160" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="550" y="120" />
+              <mxPoint x="601" y="110" />
+              <mxPoint x="601" y="120" />
               <mxPoint x="690" y="120" />
-              <mxPoint x="900" y="120" />
+              <mxPoint x="980" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -37,15 +38,20 @@
         <mxCell id="pN9J62DILKApvvg1MB21-12" value="tak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="787" y="100" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JiiDd-c7EXxBYxir_EYN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JiiDd-c7EXxBYxir_EYN-1" edge="1" target="JiiDd-c7EXxBYxir_EYN-14">
+        <mxCell id="JiiDd-c7EXxBYxir_EYN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JiiDd-c7EXxBYxir_EYN-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="300" as="targetPoint" />
+            <mxPoint x="900" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fl4-99ZhUkf3XR74oAWI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JiiDd-c7EXxBYxir_EYN-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JiiDd-c7EXxBYxir_EYN-1" value="remove: 12, 13, 14" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="160" width="120" height="80" as="geometry" />
+          <mxGeometry x="920" y="160" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JiiDd-c7EXxBYxir_EYN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.565;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JiiDd-c7EXxBYxir_EYN-4" edge="1" target="JiiDd-c7EXxBYxir_EYN-29">
+        <mxCell id="JiiDd-c7EXxBYxir_EYN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.565;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JiiDd-c7EXxBYxir_EYN-4" target="JiiDd-c7EXxBYxir_EYN-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="520" as="targetPoint" />
             <Array as="points">
@@ -59,7 +65,7 @@
             <mxPoint x="460" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JiiDd-c7EXxBYxir_EYN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JiiDd-c7EXxBYxir_EYN-4" edge="1" target="JiiDd-c7EXxBYxir_EYN-31">
+        <mxCell id="JiiDd-c7EXxBYxir_EYN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JiiDd-c7EXxBYxir_EYN-4" target="JiiDd-c7EXxBYxir_EYN-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="520" as="targetPoint" />
             <Array as="points">
@@ -72,34 +78,31 @@
         <mxCell id="JiiDd-c7EXxBYxir_EYN-4" value="remove: 11" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="160" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JiiDd-c7EXxBYxir_EYN-14" value="Lista grup elementarnych&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
-          <mxGeometry x="855" y="310" width="90" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="JiiDd-c7EXxBYxir_EYN-15" value="Pytanie 1:&lt;br&gt;Wybierz branżę, która najbardziej Cię interesuje:&lt;br&gt;1 - biznes, marketing, 2 - hotelarstwo, handel, sport, 3 - produkcja, usługi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="410" width="270" height="60" as="geometry" />
+          <mxGeometry x="-20" y="410" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JiiDd-c7EXxBYxir_EYN-17" value="&lt;h1&gt;Adnotacja&amp;nbsp;&lt;/h1&gt;&lt;p&gt;W następnych pytaniach będziesz proszony o wybór branży, w której chciałbyś piastować stanowiska kierownicze.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="300" width="270" height="120" as="geometry" />
+        <mxCell id="JiiDd-c7EXxBYxir_EYN-17" value="&lt;h1&gt;Adnotacja&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&quot;W kilku następnych pytaniach będziesz proszony o wybór branży, w której chciałbyś piastować stanowiska kierownicze. &quot;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="295" width="270" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="JiiDd-c7EXxBYxir_EYN-22" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="450" width="20" height="20" as="geometry" />
+        <mxCell id="JiiDd-c7EXxBYxir_EYN-22" value="3 dostał ocenę 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="450" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JiiDd-c7EXxBYxir_EYN-23" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="460" y="450" width="20" height="20" as="geometry" />
+        <mxCell id="JiiDd-c7EXxBYxir_EYN-23" value="2 dostał ocenę 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="450" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JiiDd-c7EXxBYxir_EYN-24" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="720" y="450" width="20" height="20" as="geometry" />
+        <mxCell id="JiiDd-c7EXxBYxir_EYN-24" value="1 dostał ocenę 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="720" y="450" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JiiDd-c7EXxBYxir_EYN-28" value="&lt;h1&gt;Adnotacja&lt;/h1&gt;&lt;p&gt;Przy opcjach - info o grupach 12, 13, 14&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="470" width="190" height="90" as="geometry" />
+          <mxGeometry x="-20" y="480" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="JiiDd-c7EXxBYxir_EYN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="JiiDd-c7EXxBYxir_EYN-37">
+        <mxCell id="JiiDd-c7EXxBYxir_EYN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="JiiDd-c7EXxBYxir_EYN-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="680" as="targetPoint" />
             <mxPoint x="330" y="640" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JiiDd-c7EXxBYxir_EYN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JiiDd-c7EXxBYxir_EYN-29" edge="1" target="JiiDd-c7EXxBYxir_EYN-39">
+        <mxCell id="JiiDd-c7EXxBYxir_EYN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JiiDd-c7EXxBYxir_EYN-29" target="JiiDd-c7EXxBYxir_EYN-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="680" as="targetPoint" />
             <Array as="points">
@@ -108,7 +111,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JiiDd-c7EXxBYxir_EYN-29" value="remove: 13, 14" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JiiDd-c7EXxBYxir_EYN-29" value="remove: 14" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="510" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JiiDd-c7EXxBYxir_EYN-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JiiDd-c7EXxBYxir_EYN-30" edge="1">
@@ -121,7 +124,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F59zc4uEHcYendwUdtqj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JiiDd-c7EXxBYxir_EYN-30">
+        <mxCell id="F59zc4uEHcYendwUdtqj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JiiDd-c7EXxBYxir_EYN-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="1000" as="targetPoint" />
             <Array as="points">
@@ -131,10 +134,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JiiDd-c7EXxBYxir_EYN-30" value="remove: 13, 12" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JiiDd-c7EXxBYxir_EYN-30" value="remove: 13" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="520" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F59zc4uEHcYendwUdtqj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JiiDd-c7EXxBYxir_EYN-31">
+        <mxCell id="F59zc4uEHcYendwUdtqj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JiiDd-c7EXxBYxir_EYN-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="1420" as="targetPoint" />
             <Array as="points">
@@ -143,7 +146,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F59zc4uEHcYendwUdtqj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JiiDd-c7EXxBYxir_EYN-31">
+        <mxCell id="F59zc4uEHcYendwUdtqj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JiiDd-c7EXxBYxir_EYN-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="830" y="1420" as="targetPoint" />
             <Array as="points">
@@ -152,7 +155,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JiiDd-c7EXxBYxir_EYN-31" value="remove: 12, 14" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JiiDd-c7EXxBYxir_EYN-31" value="remove: 12" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JiiDd-c7EXxBYxir_EYN-32" value="Pytanie 2:&lt;br&gt;Czy interesują Cię zagadnienia reklamy, marketingu lub public relations?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -185,43 +188,46 @@
         <mxCell id="JiiDd-c7EXxBYxir_EYN-46" value="Pytanie 3:&lt;br&gt;Czy chciałbyś pracować w gastronomii bądź hotelarstwie?&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="960" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="F59zc4uEHcYendwUdtqj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F59zc4uEHcYendwUdtqj-6" target="F59zc4uEHcYendwUdtqj-11">
+        <mxCell id="F59zc4uEHcYendwUdtqj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="F59zc4uEHcYendwUdtqj-6" target="F59zc4uEHcYendwUdtqj-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F59zc4uEHcYendwUdtqj-6" value="remove: 142, 143" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F59zc4uEHcYendwUdtqj-6" value="remove: 142, 143" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="1000" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F59zc4uEHcYendwUdtqj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F59zc4uEHcYendwUdtqj-7" target="F59zc4uEHcYendwUdtqj-14">
+        <mxCell id="F59zc4uEHcYendwUdtqj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="F59zc4uEHcYendwUdtqj-7" target="F59zc4uEHcYendwUdtqj-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F59zc4uEHcYendwUdtqj-7" value="remove: 141" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fl4-99ZhUkf3XR74oAWI-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F59zc4uEHcYendwUdtqj-7" target="F59zc4uEHcYendwUdtqj-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F59zc4uEHcYendwUdtqj-7" value="remove: 141" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="1000" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F59zc4uEHcYendwUdtqj-8" value="tak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="F59zc4uEHcYendwUdtqj-8" value="tak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="930" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F59zc4uEHcYendwUdtqj-9" value="nie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="F59zc4uEHcYendwUdtqj-9" value="nie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="930" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F59zc4uEHcYendwUdtqj-11" value="Lista grup elementarnych&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="F59zc4uEHcYendwUdtqj-11" value="Lista grup elementarnych&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="330" y="1130" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="F59zc4uEHcYendwUdtqj-14" value="Lista grup elementarnych&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="F59zc4uEHcYendwUdtqj-14" value="Lista grup elementarnych&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="520" y="1130" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="F59zc4uEHcYendwUdtqj-19" value="Pytanie 4:&lt;br&gt;Czy interesuje Cię kierownictwo produkcją w rolnictwie, leśnictwie lub rybactwie?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F59zc4uEHcYendwUdtqj-19" value="Pytanie 4:&lt;br&gt;Czy interesuje Cię kierownictwo produkcją w rolnictwie, leśnictwie lub rybactwie?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="1320" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="F59zc4uEHcYendwUdtqj-20" value="tak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="F59zc4uEHcYendwUdtqj-20" value="tak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="1310" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F59zc4uEHcYendwUdtqj-21" value="nie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="F59zc4uEHcYendwUdtqj-21" value="nie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="760" y="1310" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F59zc4uEHcYendwUdtqj-22" value="remove: 132, 133, 134" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F59zc4uEHcYendwUdtqj-22" value="remove: 132, 133, 134" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="1420" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F59zc4uEHcYendwUdtqj-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F59zc4uEHcYendwUdtqj-23">
+        <mxCell id="F59zc4uEHcYendwUdtqj-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F59zc4uEHcYendwUdtqj-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="1770" as="targetPoint" />
             <Array as="points">
@@ -230,7 +236,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F59zc4uEHcYendwUdtqj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F59zc4uEHcYendwUdtqj-23">
+        <mxCell id="F59zc4uEHcYendwUdtqj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F59zc4uEHcYendwUdtqj-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="940" y="1770" as="targetPoint" />
             <Array as="points">
@@ -239,25 +245,68 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F59zc4uEHcYendwUdtqj-23" value="remove: 131" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F59zc4uEHcYendwUdtqj-23" value="remove: 131" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="1420" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F59zc4uEHcYendwUdtqj-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="F59zc4uEHcYendwUdtqj-25">
+        <mxCell id="F59zc4uEHcYendwUdtqj-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="F59zc4uEHcYendwUdtqj-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="625" y="1500" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F59zc4uEHcYendwUdtqj-25" value="Lista grup elementarnych&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="F59zc4uEHcYendwUdtqj-25" value="Lista grup elementarnych&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="580" y="1550" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="F59zc4uEHcYendwUdtqj-28" value="Pytanie 5:&lt;br&gt;Czy interesują Cię takie gałęzie gospodarki jak:&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34; ; text-align: left&quot;&gt;górnictwo, przemysł, budownictwo lub dystrybucja?&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F59zc4uEHcYendwUdtqj-28" value="Pytanie 5:&lt;br&gt;Czy interesują Cię takie gałęzie gospodarki jak:&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34; ; text-align: left&quot;&gt;górnictwo, przemysł, budownictwo lub dystrybucja?&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="1690" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="F59zc4uEHcYendwUdtqj-29" value="tak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="F59zc4uEHcYendwUdtqj-29" value="tak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="730" y="1690" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F59zc4uEHcYendwUdtqj-30" value="nie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="F59zc4uEHcYendwUdtqj-30" value="nie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="870" y="1690" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fl4-99ZhUkf3XR74oAWI-1" value="Pytanie 6:&amp;nbsp;&lt;br&gt;Czy chciałbyś się zajmować polityką?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="240" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fl4-99ZhUkf3XR74oAWI-2" value="&lt;h1&gt;Adnotacja&lt;/h1&gt;&lt;div&gt;W pytaniu 1 mamy 3 odpowiedzi po 3 radio buttony - odpowiednio puntkowane 1, 2, 3. 3 - najbardziej mnie interesuje, 1 - najmniej. Tylko 2 i 3 przechodzą dalej. Nie mozna zaznaczyc, że 2 rzeczy interesują mnie w takim samym stopniu.&lt;/div&gt;&lt;div&gt;Ciężko w tym wieku sprecyzować zainteresowania, ale na tą chwilę zostaje ponad 20 grup elementarnych, więc coś wykluczyć trzeba.&amp;nbsp;&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="325" width="220" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="fl4-99ZhUkf3XR74oAWI-3" value="&lt;h1&gt;Adnotacja&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Pytanie wykluczające we wszystkich przypadkach. Jest tak sformułowane, że jeśli nie - nie chcę podejmować najważniejszych decyzji i nie interesuję się polityką (wykluczenie 11), jeśli tak - chcę podejmować najważniejsze decyzje, więc nie kierownicze, tylko zarządcze, dyrektorskie - wykluczamy 12, 13, 14&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="60" width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fl4-99ZhUkf3XR74oAWI-4" value="&lt;h1&gt;GRUPA 1&amp;nbsp;&lt;/h1&gt;&lt;a name=&quot;sekcja&quot; style=&quot;font-family: &amp;#34;verdana&amp;#34; ; font-size: 18px ; font-weight: 700&quot;&gt;PRZEDSTAWICIELE WŁADZ PUBLICZNYCH, WYŻSI URZĘDNICY I KIEROWNICY&lt;/a&gt;&lt;p&gt;11 - Przedstawiciele władz publicznych, wyżsi urzędnicy i dyrektorzy generalni&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span&gt;111&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;Przedstawiciele władz publicznych i wyżsi urzędnicy&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1111&lt;span&gt;	&lt;/span&gt;Przedstawiciele władz publicznych&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1112&lt;span&gt;	&lt;/span&gt;Wyżsi urzędnicy administracji rządowej&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1113&lt;span&gt;	&lt;/span&gt;Wyżsi urzędnicy władz samorządowych&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1114&lt;span&gt;	&lt;/span&gt;Zawodowi działacze organizacji członkowskich&lt;/p&gt;&lt;p&gt;&lt;span&gt;	&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;112&lt;span&gt;	&lt;/span&gt;Dyrektorzy generalni i zarządzający&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1120&lt;span&gt;	&lt;/span&gt;Dyrektorzy generalni i zarządzający&lt;span&gt;		&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;span&gt;12 - Kierownicy do spraw zarządzania i handlu&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;121&lt;span&gt;	&lt;/span&gt;Kierownicy do spraw obsługi biznesu i zarządzania&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1211&lt;span&gt;	&lt;/span&gt;Kierownicy do spraw finansowych&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1212&lt;span&gt;	&lt;/span&gt;Kierownicy do spraw zarządzania zasobami ludzkimi&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1213&lt;span&gt;	&lt;/span&gt;Kierownicy do spraw strategii i planowania&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1219&lt;span&gt;	&lt;/span&gt;Kierownicy do spraw obsługi biznesu i zarządzania gdzie indziej niesklasyfikowani&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;122&lt;span&gt;	&lt;/span&gt;Kierownicy do spraw sprzedaży, marketingu i rozwoju&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1221&lt;span&gt;	&lt;/span&gt;Kierownicy do spraw marketingu i sprzedaży&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1222&lt;span&gt;	&lt;/span&gt;Kierownicy do spraw reklamy i public relations&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1223&lt;span&gt;	&lt;/span&gt;Kierownicy do spraw badań i rozwoju&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="10" width="560" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="fl4-99ZhUkf3XR74oAWI-6" value="tak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fl4-99ZhUkf3XR74oAWI-7" value="nie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fl4-99ZhUkf3XR74oAWI-8" value="remove: 111" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="315" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fl4-99ZhUkf3XR74oAWI-9" value="remove: 112" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="315" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fl4-99ZhUkf3XR74oAWI-10" value="&lt;h1&gt;Adnotacja&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Pytanie wykluczające we wszystkich przypadkach, bo ankietowany ewidentnie wskazuje, że chce być politykiem, lub nie. (Do uzgodnienia)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="210" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fl4-99ZhUkf3XR74oAWI-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="fl4-99ZhUkf3XR74oAWI-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="905" y="395" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fl4-99ZhUkf3XR74oAWI-13" value="Lista grup elementarnych:&lt;br&gt;&amp;nbsp;1111&lt;br&gt;1112&lt;br&gt;1113&lt;br&gt;1114" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=30;" vertex="1" parent="1">
+          <mxGeometry x="860" y="445" width="90" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="fl4-99ZhUkf3XR74oAWI-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="fl4-99ZhUkf3XR74oAWI-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1045" y="395" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fl4-99ZhUkf3XR74oAWI-15" value="Lista grup elementarnych:&lt;br&gt;1120" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=30;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="445" width="90" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
