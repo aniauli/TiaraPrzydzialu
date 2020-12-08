@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T11:30:01.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="P141CgKeMiteUJGLQCRA" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-08T17:58:31.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="qfEcVITB2fijectlhM-t" version="13.11.0" type="github">
   <diagram id="5uM9XUodchVWy86l6dnS" name="Page-1">
-    <mxGraphModel dx="2847" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2266" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JiiDd-c7EXxBYxir_EYN-1" value="remove: 12, 13, 14" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="160" width="120" height="80" as="geometry" />
+          <mxGeometry x="920" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JiiDd-c7EXxBYxir_EYN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.565;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JiiDd-c7EXxBYxir_EYN-4" target="JiiDd-c7EXxBYxir_EYN-29" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -60,18 +60,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JiiDd-c7EXxBYxir_EYN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JiiDd-c7EXxBYxir_EYN-4" edge="1">
+        <mxCell id="JiiDd-c7EXxBYxir_EYN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JiiDd-c7EXxBYxir_EYN-4" edge="1" target="JiiDd-c7EXxBYxir_EYN-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="380" />
+              <mxPoint x="575" y="380" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JiiDd-c7EXxBYxir_EYN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JiiDd-c7EXxBYxir_EYN-4" target="JiiDd-c7EXxBYxir_EYN-31" edge="1">
+        <mxCell id="JiiDd-c7EXxBYxir_EYN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1KFQorK6eVUudZrLt6k1-60" target="JiiDd-c7EXxBYxir_EYN-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="520" as="targetPoint" />
             <Array as="points">
               <mxPoint x="400" y="380" />
               <mxPoint x="720" y="380" />
-              <mxPoint x="720" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -96,52 +99,16 @@
         <mxCell id="JiiDd-c7EXxBYxir_EYN-28" value="&lt;h1&gt;Adnotacja&lt;/h1&gt;&lt;p&gt;Przy opcjach - info o grupach 12, 13, 14&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#990099;" parent="1" vertex="1">
           <mxGeometry x="-20" y="480" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="JiiDd-c7EXxBYxir_EYN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="135" y="680" as="targetPoint" />
-            <mxPoint x="310" y="640" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JiiDd-c7EXxBYxir_EYN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JiiDd-c7EXxBYxir_EYN-29" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="680" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="270" y="640" />
-              <mxPoint x="390" y="640" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JiiDd-c7EXxBYxir_EYN-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="680" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="270" y="640" />
-              <mxPoint x="230" y="640" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JiiDd-c7EXxBYxir_EYN-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="680" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="270" y="640" />
-              <mxPoint x="310" y="640" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JiiDd-c7EXxBYxir_EYN-29" value="remove: 14" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="510" width="120" height="80" as="geometry" />
+          <mxGeometry x="210" y="485" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JiiDd-c7EXxBYxir_EYN-30" value="remove: 13" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="520" width="120" height="80" as="geometry" />
+          <mxGeometry x="515" y="490" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JiiDd-c7EXxBYxir_EYN-31" value="remove: 12" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="520" width="120" height="80" as="geometry" />
+          <mxGeometry x="660" y="485" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JiiDd-c7EXxBYxir_EYN-32" value="Pytanie 2:&lt;br&gt;W jakich dziedzinach widziałbyś się za kilka lat?&lt;br&gt;1 - biznes/finanse, 2 - sprzedaż/reklama, 3 - produkcja, 4 - usługi" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#006600;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="600" width="260" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="fl4-99ZhUkf3XR74oAWI-1" value="Pytanie 6:&amp;nbsp;&lt;br&gt;Czy chciałbyś się zajmować polityką?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fl4-99ZhUkf3XR74oAWI-1" value="Pytanie 2:&amp;nbsp;&lt;br&gt;Czy chciałbyś się zajmować polityką?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1120" y="240" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fl4-99ZhUkf3XR74oAWI-2" value="&lt;h1&gt;Adnotacja&lt;/h1&gt;&lt;div&gt;W pytaniu 1 mamy 3 odpowiedzi po 3 radio buttony - odpowiednio puntkowane 1, 2, 3. 3 - najbardziej mnie interesuje, 1 - najmniej. Tylko 2 i 3 przechodzą dalej. Nie mozna zaznaczyc, że 2 rzeczy interesują mnie w takim samym stopniu.&lt;/div&gt;&lt;div&gt;Ciężko w tym wieku sprecyzować zainteresowania, ale na tą chwilę zostaje ponad 20 grup elementarnych, więc coś wykluczyć trzeba.&amp;nbsp;&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#990099;" parent="1" vertex="1">
@@ -151,7 +118,7 @@
           <mxGeometry x="-210" y="60" width="270" height="160" as="geometry" />
         </mxCell>
         <mxCell id="fl4-99ZhUkf3XR74oAWI-4" value="&lt;h1&gt;GRUPA 1&amp;nbsp;&lt;/h1&gt;&lt;a name=&quot;sekcja&quot; style=&quot;font-family: &amp;#34;verdana&amp;#34; ; font-size: 18px ; font-weight: 700&quot;&gt;PRZEDSTAWICIELE WŁADZ PUBLICZNYCH, WYŻSI URZĘDNICY I KIEROWNICY&lt;/a&gt;&lt;p&gt;11 - Przedstawiciele władz publicznych, wyżsi urzędnicy i dyrektorzy generalni&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span&gt;111&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;Przedstawiciele władz publicznych i wyżsi urzędnicy&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;font color=&quot;#009900&quot;&gt;1111&lt;span&gt; &lt;/span&gt;Przedstawiciele władz publicznych&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1112&lt;span&gt; &lt;/span&gt;Wyżsi urzędnicy administracji rządowej&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1113&lt;span&gt; &lt;/span&gt;Wyżsi urzędnicy władz samorządowych&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1114&lt;span&gt; &lt;/span&gt;Zawodowi działacze organizacji członkowskich&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;112&lt;span&gt; &lt;/span&gt;Dyrektorzy generalni i zarządzający&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#009900&quot;&gt; 1120&lt;span&gt; &lt;/span&gt;Dyrektorzy generalni i zarządzający&lt;/font&gt;&lt;span&gt;  &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;span&gt;12 - Kierownicy do spraw zarządzania i handlu&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;121&lt;span&gt; &lt;/span&gt;Kierownicy do spraw obsługi biznesu i zarządzania&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#009900&quot;&gt;1211&lt;span&gt; &lt;/span&gt;Kierownicy do spraw finansowych&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1212&lt;span&gt; &lt;/span&gt;Kierownicy do spraw zarządzania zasobami ludzkimi&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1213&lt;span&gt; &lt;/span&gt;Kierownicy do spraw strategii i planowania&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1219&lt;span&gt; &lt;/span&gt;Kierownicy do spraw obsługi biznesu i zarządzania gdzie indziej niesklasyfikowani&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;122&lt;span&gt; &lt;/span&gt;Kierownicy do spraw sprzedaży, marketingu i rozwoju&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;font color=&quot;#009900&quot;&gt;&amp;nbsp;1221&lt;span&gt; &lt;/span&gt;Kierownicy do spraw marketingu i sprzedaży&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1222&lt;span&gt; &lt;/span&gt;Kierownicy do spraw reklamy i public relations&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1223&lt;span&gt; &lt;/span&gt;Kierownicy do spraw badań i rozwoju&lt;/font&gt;&lt;/p&gt;&lt;p&gt;13 - Kierownicy do spraw produkcji i usług&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 131&lt;span&gt; &lt;/span&gt;Kierownicy produkcji w rolnictwie, leśnictwie i rybactwie&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#009900&quot;&gt;1311&lt;span&gt; &lt;/span&gt;Kierownicy produkcji w rolnictwie i leśnictwie&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1312&lt;span&gt; &lt;/span&gt;Kierownicy produkcji w zakładach akwakultury i rybołówstwie&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 132&lt;span&gt; &lt;/span&gt;Kierownicy w górnictwie, przemyśle, budownictwie i dystrybucji&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;font color=&quot;#009900&quot;&gt;&amp;nbsp;1321&lt;span&gt; &lt;/span&gt;Kierownicy do spraw produkcji przemysłowej&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1322&lt;span&gt; &lt;/span&gt;Kierownicy w górnictwie&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1323&lt;span&gt; &lt;/span&gt;Kierownicy do spraw budownictwa&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1324&lt;span&gt; &lt;/span&gt;Kierownicy do spraw logistyki i dziedzin pokrewnych&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 133&lt;span&gt; &lt;/span&gt;Kierownicy do spraw technologii informatycznych i telekomunikacyjnych&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#009900&quot;&gt; &amp;nbsp;1330&lt;span&gt; &lt;/span&gt;Kierownicy do spraw technologii informatycznych i telekomunikacyjnych&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 134&lt;span&gt; &lt;/span&gt;Kierownicy / Dyrektorzy w instytucjach usług wyspecjalizowanych&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#009900&quot;&gt; 1341&lt;span&gt; &lt;/span&gt;Kierownicy w instytucjach opieki nad dziećmi&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1342&lt;span&gt; &lt;/span&gt;Kierownicy w instytucjach opieki zdrowotnej&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1343&lt;span&gt; &lt;/span&gt;Kierownicy w instytucjach opieki nad osobami starszymi&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1344&lt;span&gt; &lt;/span&gt;Kierownicy w instytucjach pomocy społecznej&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1345&lt;span&gt; &lt;/span&gt;Kierownicy w instytucjach edukacyjnych&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1346&lt;span&gt; &lt;/span&gt;Kierownicy w instytucjach finansowych i ubezpieczeniowych&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1349&lt;span&gt; &lt;/span&gt;Kierownicy w instytucjach usług wyspecjalizowanych gdzie indziej niesklasyfikowani&lt;/font&gt;&lt;/p&gt;&lt;p&gt;14 - Kierownicy w branży hotelarskiej, handlu i innych branżach usługowych&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 141&lt;span&gt; &lt;/span&gt;Kierownicy w gastronomii i hotelarstwie&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#009900&quot;&gt; 1411&lt;span&gt; &lt;/span&gt;Kierownicy w hotelarstwie&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1412&lt;span&gt; &lt;/span&gt;Kierownicy w gastronomii&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;142&lt;span&gt; &lt;/span&gt;Kierownicy do spraw handlu detalicznego i hurtowego&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; 1420&lt;span&gt; &lt;/span&gt;Kierownicy w handlu detalicznym i hurtowym&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;143&lt;span&gt; &lt;/span&gt;Kierownicy do spraw innych typów usług&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; 1431&lt;span&gt; &lt;/span&gt;Kierownicy do spraw sportu, rekreacji i rozrywki&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1439&lt;span&gt; &lt;/span&gt;Kierownicy do spraw innych typów usług gdzie indziej niesklasyfikowani&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-827" y="10" width="560" height="1320" as="geometry" />
+          <mxGeometry x="-820" y="20" width="560" height="1320" as="geometry" />
         </mxCell>
         <mxCell id="fl4-99ZhUkf3XR74oAWI-6" value="tak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="900" y="250" width="40" height="20" as="geometry" />
@@ -184,226 +151,223 @@
         <mxCell id="fl4-99ZhUkf3XR74oAWI-15" value="Lista grup elementarnych:&lt;br&gt;1120" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=30;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1000" y="445" width="90" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-1" value="&lt;h1&gt;Adnotacja&lt;/h1&gt;&lt;p&gt;Przy opcjach - info o grupach 121, 122, (131, 132 łącznie), (133, 134 łącznie)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#006600;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="570" width="130" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#006600;" edge="1" parent="1" source="1KFQorK6eVUudZrLt6k1-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-40" y="900" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="135" y="840" />
-              <mxPoint x="-40" y="840" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-4" value="remove: 12" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="680" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1KFQorK6eVUudZrLt6k1-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="680" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="270" y="640" />
-              <mxPoint x="490" y="640" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1KFQorK6eVUudZrLt6k1-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="680" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="270" y="640" />
-              <mxPoint x="560" y="640" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-5" value="najmniej dostały:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="215" y="600" width="110" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-6" value="1 i 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="650" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-7" value="1 i 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="650" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-8" value="1 i 4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="650" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-10" value="2 i 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="650" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-11" value="2 i 4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="650" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-13" value="3 i 4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="650" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-14" value="remove: 121, 131, 132" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="680" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#006600;" edge="1" parent="1" source="1KFQorK6eVUudZrLt6k1-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-40" y="900" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="220" y="840" />
-              <mxPoint x="-40" y="840" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-15" value="remove: 121, 133, 134" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="680" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#006600;" edge="1" parent="1" source="1KFQorK6eVUudZrLt6k1-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-40" y="900" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="400" y="840" />
-              <mxPoint x="-40" y="840" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-16" value="remove: 122, 131, 132" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="680" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-17" value="remove: 122, 133, 134" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="680" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-19" value="remove: 13" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="680" width="70" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="1KFQorK6eVUudZrLt6k1-21" value="&lt;font color=&quot;#990000&quot;&gt;Pytanie 3:&lt;br&gt;Czy interesuje Cię praca w wyspecjalizowanych usługach, takich jak pomoc społeczna, edukacja czy ubezpieczenia?&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#006600;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="880" width="250" height="80" as="geometry" />
+          <mxGeometry x="410" y="650" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fl4-99ZhUkf3XR74oAWI-17" value="&lt;h1&gt;Adnotacja&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Ponieważ zostały 22 grupy elementarne, więc musimy znów zastosować pytanie wykluczające. Znów stosujemy system hierarchizacji zainteresowań. Tym razem mamy 4 odpowiedzi, więc po 4 radio buttony. Przechodzą dwie grupy, w najgorszym przypadku będzie 14 grup elementarnych.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#006600;" parent="1" vertex="1">
-          <mxGeometry x="-175" y="680" width="270" height="160" as="geometry" />
+        <mxCell id="1KFQorK6eVUudZrLt6k1-60" value="&lt;b&gt;12, 13, 14&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=#CCFF99;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="355" y="240" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-110" y="970" as="targetPoint" />
-            <mxPoint x="-30" y="900" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-62" value="&lt;b&gt;11&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=#CCFF99;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="935" y="220" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="30" y="970" as="targetPoint" />
-            <mxPoint x="-30" y="900" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-63" value="&lt;b&gt;12, 13&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=#CCFF99;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="225" y="565" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-30" value="tak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="920" width="40" height="20" as="geometry" />
+        <mxCell id="1KFQorK6eVUudZrLt6k1-65" value="&lt;b&gt;12, 14&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=#CCFF99;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="530" y="570" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-31" value="nie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="920" width="40" height="20" as="geometry" />
+        <mxCell id="1KFQorK6eVUudZrLt6k1-66" value="&lt;b&gt;13, 14&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=#CCFF99;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="675" y="565" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000099;" edge="1" parent="1" source="1KFQorK6eVUudZrLt6k1-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-40" y="1230" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-67" value="Odnoga 12...&amp;nbsp;&lt;span style=&quot;text-align: left&quot;&gt;Kierownicy do spraw zarządzania i handlu&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="680" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-32" value="remove: null" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="970" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-33" value="remove: 134" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="970" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-36" value="&lt;font color=&quot;#000099&quot;&gt;Pytanie 4:&lt;br&gt;Które usługi Cię najbardziej interesują?&lt;br&gt;1 - pomoc społeczna/opieka, 2 - edukacja, 3 -opieka zdrowotna, 4 -inne&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#006600;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="1240" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-37" value="&lt;h1&gt;Adnotacja&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Pytanie wykluczające do grupy 134. Znów stosujemy system hierarchizacji zainteresowań. Mamy 4 odpowiedzi, więc po 4 radio buttony. Przechodzą dwie grupy. Zostanie max. 5 grup elementarnych&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="-375" y="1080" width="200" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-175" y="1270" as="targetPoint" />
-            <mxPoint y="1230" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="1270" as="targetPoint" />
+        <mxCell id="1KFQorK6eVUudZrLt6k1-68" value="" style="endArrow=classic;html=1;exitX=0.531;exitY=1.063;exitDx=0;exitDy=0;rounded=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="1KFQorK6eVUudZrLt6k1-67" parent="1" target="1KFQorK6eVUudZrLt6k1-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="780" as="sourcePoint" />
+            <mxPoint x="-30" y="810" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-40" y="1230" />
-              <mxPoint x="80" y="1230" />
-            </Array>
-            <mxPoint x="-40" y="1180" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-80" y="1270" as="targetPoint" />
-            <mxPoint x="-40" y="1180" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-40" y="1230" />
-              <mxPoint x="-80" y="1230" />
+              <mxPoint x="170" y="770" />
+              <mxPoint x="-30" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint y="1270" as="targetPoint" />
-            <mxPoint x="-40" y="1180" as="sourcePoint" />
+        <mxCell id="1KFQorK6eVUudZrLt6k1-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.533;exitY=1.023;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="1KFQorK6eVUudZrLt6k1-67" target="1KFQorK6eVUudZrLt6k1-74" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="730" as="sourcePoint" />
+            <mxPoint x="260" y="810" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-40" y="1230" />
-              <mxPoint y="1230" />
+              <mxPoint x="171" y="760" />
+              <mxPoint x="171" y="770" />
+              <mxPoint x="260" y="770" />
+              <mxPoint x="410" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1KFQorK6eVUudZrLt6k1-44">
+        <mxCell id="1KFQorK6eVUudZrLt6k1-70" value="nie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="750" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-71" value="tak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="750" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-74" value="remove: null" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-75" value="remove: 122" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-89" value="&lt;font color=&quot;#663300&quot;&gt;Czy interesujesz się reklamą, marketingiem?&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#990099;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="740" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontColor=#000099;" edge="1" parent="1" source="1KFQorK6eVUudZrLt6k1-92">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="1270" as="targetPoint" />
+            <mxPoint x="-30" y="1030" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-40" y="1230" />
-              <mxPoint x="180" y="1230" />
+              <mxPoint x="-30" y="940" />
+              <mxPoint x="180" y="940" />
+              <mxPoint x="180" y="975" />
+              <mxPoint x="-30" y="975" />
+              <mxPoint x="-30" y="1030" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1KFQorK6eVUudZrLt6k1-44">
+        <mxCell id="1KFQorK6eVUudZrLt6k1-92" value="&lt;b&gt;121&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=#CCFF99;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="890" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontColor=#000099;" edge="1" parent="1" source="1KFQorK6eVUudZrLt6k1-93">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="1270" as="targetPoint" />
+            <mxPoint x="410" y="1039.9999999999998" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-40" y="1230" />
-              <mxPoint x="250" y="1230" />
+              <mxPoint x="415" y="940" />
+              <mxPoint x="180" y="940" />
+              <mxPoint x="180" y="975" />
+              <mxPoint x="410" y="975" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-44" value="najmniej dostały:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-95" y="1190" width="110" height="20" as="geometry" />
+        <mxCell id="1KFQorK6eVUudZrLt6k1-93" value="&lt;b&gt;121, 122&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=#CCFF99;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="370" y="880" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-45" value="1 i 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="1240" width="40" height="20" as="geometry" />
+        <mxCell id="1KFQorK6eVUudZrLt6k1-98" value="&lt;font color=&quot;#663300&quot;&gt;Czy widzisz się w przyszłości w biznesie?&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#990099;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="940" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-46" value="1 i 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="1240" width="40" height="20" as="geometry" />
+        <mxCell id="1KFQorK6eVUudZrLt6k1-109" value="nie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="950" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-47" value="1 i 4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="1240" width="40" height="20" as="geometry" />
+        <mxCell id="1KFQorK6eVUudZrLt6k1-110" value="tak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="950" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-48" value="2 i 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1240" width="40" height="20" as="geometry" />
+        <mxCell id="1KFQorK6eVUudZrLt6k1-111" value="remove: 121" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="1030" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-49" value="2 i 4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1240" width="40" height="20" as="geometry" />
+        <mxCell id="1KFQorK6eVUudZrLt6k1-113" value="remove: null" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1040" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-50" value="3 i 4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1240" width="40" height="20" as="geometry" />
+        <mxCell id="1KFQorK6eVUudZrLt6k1-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="1KFQorK6eVUudZrLt6k1-116">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30" y="1110" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-53" value="remove:&amp;nbsp;&lt;br&gt;1341, 1343, 1344, 1345" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="1270" width="70" height="60" as="geometry" />
+        <mxCell id="1KFQorK6eVUudZrLt6k1-116" value="Lista grup elementarnych:&lt;br&gt;&amp;nbsp;1221&lt;br&gt;1222&lt;br&gt;1223&lt;br&gt;LUB null&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=30;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="1160" width="90" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-54" value="remove: 1341, 1343, 1344, 1342" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="1270" width="70" height="60" as="geometry" />
+        <mxCell id="1KFQorK6eVUudZrLt6k1-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="1KFQorK6eVUudZrLt6k1-120">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="1119.9999999999998" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-55" value="remove: 1341, 1343, 1344, 1346, 1349&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="1270" width="70" height="70" as="geometry" />
+        <mxCell id="1KFQorK6eVUudZrLt6k1-120" value="Lista grup elementarnych:&lt;br&gt;&amp;nbsp;1221&lt;br&gt;1222&lt;br&gt;1223&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;LUB&amp;nbsp;&lt;/span&gt;&lt;/div&gt;1211&lt;br&gt;1212&lt;br&gt;1213&lt;br&gt;1219&lt;br&gt;1221&lt;br&gt;1222&lt;br&gt;1223" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=30;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1160" width="90" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-56" value="remove: 1342, 1345" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1270" width="70" height="60" as="geometry" />
+        <mxCell id="1KFQorK6eVUudZrLt6k1-121" value="Odnoga 13...&amp;nbsp;&lt;span style=&quot;text-align: left&quot;&gt;Kierownicy do spraw produkcji i usług&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="680" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-57" value="remove: 1345, 1346, 1349&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1270" width="70" height="60" as="geometry" />
+        <mxCell id="1KFQorK6eVUudZrLt6k1-122" value="" style="endArrow=classic;html=1;exitX=0.531;exitY=1.063;exitDx=0;exitDy=0;rounded=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1KFQorK6eVUudZrLt6k1-121" target="1KFQorK6eVUudZrLt6k1-127">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="780" as="sourcePoint" />
+            <mxPoint x="860" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1060" y="770" />
+              <mxPoint x="860" y="770" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="1KFQorK6eVUudZrLt6k1-58" value="remove:1342, 1346, 1349&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="1270" width="85" height="60" as="geometry" />
+        <mxCell id="1KFQorK6eVUudZrLt6k1-123" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.533;exitY=1.023;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1KFQorK6eVUudZrLt6k1-121" target="1KFQorK6eVUudZrLt6k1-126">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010" y="730" as="sourcePoint" />
+            <mxPoint x="1150" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1061" y="760" />
+              <mxPoint x="1061" y="770" />
+              <mxPoint x="1150" y="770" />
+              <mxPoint x="1300" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-124" value="nie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="750" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-125" value="tak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="750" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-126" value="remove: null" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-127" value="remove: 122" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-128" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#990099;" vertex="1" parent="1">
+          <mxGeometry x="570" y="740" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontColor=#000099;" edge="1" parent="1" source="1KFQorK6eVUudZrLt6k1-130">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="1030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="860" y="940" />
+              <mxPoint x="1070" y="940" />
+              <mxPoint x="1070" y="975" />
+              <mxPoint x="860" y="975" />
+              <mxPoint x="860" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-130" value="&lt;b&gt;121&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=#CCFF99;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="815" y="890" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontColor=#000099;" edge="1" parent="1" source="1KFQorK6eVUudZrLt6k1-132">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1300" y="1039.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1305" y="940" />
+              <mxPoint x="1070" y="940" />
+              <mxPoint x="1070" y="975" />
+              <mxPoint x="1300" y="975" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-132" value="&lt;b&gt;121, 122&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=#CCFF99;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="880" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-133" value="&lt;font color=&quot;#663300&quot;&gt;Czy widzisz się w przyszłości w biznesie?&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#990099;" vertex="1" parent="1">
+          <mxGeometry x="570" y="940" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-134" value="nie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="950" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-135" value="tak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="950" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-136" value="remove: 121" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1030" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-137" value="remove: null" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="1KFQorK6eVUudZrLt6k1-139">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="1110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-139" value="Lista grup elementarnych:&lt;br&gt;&amp;nbsp;1221&lt;br&gt;1222&lt;br&gt;1223&lt;br&gt;LUB null&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=30;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="815" y="1160" width="90" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="1KFQorK6eVUudZrLt6k1-141">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1305" y="1119.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1KFQorK6eVUudZrLt6k1-141" value="Lista grup elementarnych:&lt;br&gt;&amp;nbsp;1221&lt;br&gt;1222&lt;br&gt;1223&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;LUB&amp;nbsp;&lt;/span&gt;&lt;/div&gt;1211&lt;br&gt;1212&lt;br&gt;1213&lt;br&gt;1219&lt;br&gt;1221&lt;br&gt;1222&lt;br&gt;1223" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=30;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="1160" width="90" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
